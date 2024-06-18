@@ -26,7 +26,7 @@
 - Awarded a cash prize for achieving an A-1 grade in Matriculation from Karachi Board.
 
 🌐 **Technical Skills:**
-MS Word, PowerPoint, C++, Python, AutoCAD, ETAP, Logisim, Proteus, Arduino IDE, MATLAB/Simulink, Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Blender.
+MS Word, PowerPoint, C, C++, Python, AutoCAD, ETAP, Logisim, Proteus, Arduino IDE, MATLAB/Simulink, Adobe Photoshop, Illustrator, Premiere Pro, After Effects, Blender.
 
 📚 **Certifications and Courses:**
 - Associate Data Scientist in Python from Datacamp.
